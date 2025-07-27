@@ -1,0 +1,88 @@
+
+=== Overall Summary ===
+Total Tip Pool,375.00
+Cash Tips,125.00
+Credit Card Tips,125.00
+Service Charge Tips,125.00
+Total Hours Worked,75.00
+Hourly Rate,5.00
+
+=== Scenario Details ===
+Points Per Position
+Bartender,10
+Barback,4
+
+Percentages Per Position
+
+=== Employee Breakdown ===
+Name,Position,Hours Worked,Total Tips,Credit Card Tips,Cash Tips,Service Charge Tips,Hourly Rate
+"David","Bartender",25.00,156.25,52.08,52.08,52.08,6.25
+"Angela","Bartender",25.00,156.25,52.08,52.08,52.08,6.25
+"Eman","Barback",25.00,62.50,20.83,20.83,20.83,2.50
+
+=== Position Summary ===
+Position,Total Hours,Total Tips,Credit Card Tips,Cash Tips,Service Charge Tips,Hourly Rate
+"Bartender",50.00,312.50,104.17,104.17,104.17,6.25
+"Barback",25.00,62.50,20.83,20.83,20.83,2.50
+
+=== Daily Breakdown ===
+Monday - Day 1
+Total Credit Card Tips,25.00
+Total Cash Tips,25.00
+Total Service Charge Tips,25.00
+Total Overall Tips,75.00
+Total Hours Worked,15.00
+Total Hourly Rate,5.00
+Name,Position,Hours Worked,Total Tips,Credit Card Tips,Cash Tips,Service Charge Tips,Hourly Rate
+"David","Bartender",5.00,31.25,10.42,10.42,10.42,6.25
+"Angela","Bartender",5.00,31.25,10.42,10.42,10.42,6.25
+"Eman","Barback",5.00,12.50,4.17,4.17,4.17,2.50
+
+Tuesday - Day 2
+Total Credit Card Tips,25.00
+Total Cash Tips,25.00
+Total Service Charge Tips,25.00
+Total Overall Tips,75.00
+Total Hours Worked,15.00
+Total Hourly Rate,5.00
+Name,Position,Hours Worked,Total Tips,Credit Card Tips,Cash Tips,Service Charge Tips,Hourly Rate
+"David","Bartender",5.00,31.25,10.42,10.42,10.42,6.25
+"Angela","Bartender",5.00,31.25,10.42,10.42,10.42,6.25
+"Eman","Barback",5.00,12.50,4.17,4.17,4.17,2.50
+
+Wednesday - Day 3
+Total Credit Card Tips,25.00
+Total Cash Tips,25.00
+Total Service Charge Tips,25.00
+Total Overall Tips,75.00
+Total Hours Worked,15.00
+Total Hourly Rate,5.00
+Name,Position,Hours Worked,Total Tips,Credit Card Tips,Cash Tips,Service Charge Tips,Hourly Rate
+"David","Bartender",5.00,31.25,10.42,10.42,10.42,6.25
+"Angela","Bartender",5.00,31.25,10.42,10.42,10.42,6.25
+"Eman","Barback",5.00,12.50,4.17,4.17,4.17,2.50
+
+Thursday - Day 4
+Total Credit Card Tips,25.00
+Total Cash Tips,25.00
+Total Service Charge Tips,25.00
+Total Overall Tips,75.00
+Total Hours Worked,15.00
+Total Hourly Rate,5.00
+Name,Position,Hours Worked,Total Tips,Credit Card Tips,Cash Tips,Service Charge Tips,Hourly Rate
+"David","Bartender",5.00,31.25,10.42,10.42,10.42,6.25
+"Angela","Bartender",5.00,31.25,10.42,10.42,10.42,6.25
+"Eman","Barback",5.00,12.50,4.17,4.17,4.17,2.50
+
+Friday - Day 5
+Total Credit Card Tips,25.00
+Total Cash Tips,25.00
+Total Service Charge Tips,25.00
+Total Overall Tips,75.00
+Total Hours Worked,15.00
+Total Hourly Rate,5.00
+Name,Position,Hours Worked,Total Tips,Credit Card Tips,Cash Tips,Service Charge Tips,Hourly Rate
+"David","Bartender",5.00,31.25,10.42,10.42,10.42,6.25
+"Angela","Bartender",5.00,31.25,10.42,10.42,10.42,6.25
+"Eman","Barback",5.00,12.50,4.17,4.17,4.17,2.50
+
